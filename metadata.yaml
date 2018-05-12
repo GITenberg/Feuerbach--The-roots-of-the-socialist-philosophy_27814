@@ -1,0 +1,35 @@
+_repo: Feuerbach--The-roots-of-the-socialist-philosophy_27814
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lewis, Austin
+    gutenberg_agent_id: '32923'
+    url: http://www.gutenberg.org/2009/agents/32923
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Engels, Friedrich
+    alias: Engels, Frederick
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '47'
+    url: http://www.gutenberg.org/2009/agents/47
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Engels
+description: ''
+gutenberg_issued: '2009-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism'
+- !lcsh 'Dialectical materialism'
+- !lcsh 'Feuerbach, Ludwig, 1804-1872'
+- !lcc 'B'
+title: 'Feuerbach: The roots of the socialist philosophy'
+url: http://www.gutenberg.org/ebooks/27814
